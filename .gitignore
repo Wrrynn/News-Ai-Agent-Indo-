@@ -1,0 +1,14 @@
+# Rahasia — JANGAN pernah di-commit
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Data dataset lokal (besar / berlisensi)
+indosum/
+indosum.tar.gz
